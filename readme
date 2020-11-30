@@ -1,0 +1,8 @@
+
+Prueba automatizada de navegación web por una serie de botones usando el Framework Serenity
+
+pasos
+
+correr en Intelli IDEA como proyecto Gradle
+
+correr la clase : java/runners/CidenetRunner.java

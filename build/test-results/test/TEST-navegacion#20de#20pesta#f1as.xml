@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="navegacion de pestañas" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-30T19:38:56" hostname="KB-BERLIN" time="32.035">
+<testsuite name="navegacion de pestañas" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-30T20:18:46" hostname="KB-BERLIN" time="34.17">
   <properties/>
-  <testcase name="navegacion de pantallas" classname="navegacion de pestañas" time="32.035"/>
+  <testcase name="navegacion de pantallas" classname="navegacion de pestañas" time="34.17"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}) on port 29625
+  <system-err><![CDATA[Starting ChromeDriver 87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}) on port 14132
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-nov. 30, 2020 2:39:00 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+nov. 30, 2020 3:18:50 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
